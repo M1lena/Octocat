@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+Explain what a branch is, in your own words:
+A branch is a copy of the full repository to which you can make/add changes, and then later push these changes upstream to the main repository.
+
+If changes to the repository were made, then the branch's changes will have to be merged with the new additions since the original respository was checked ou.
+This difference between a clone and a branch is, a clone is a full copy of a repository but changes can't automatically be pushed upstream to modify the head (latest) version of the repository (without specific permission from the owner). Whereas, a branch allows those upstream merges
