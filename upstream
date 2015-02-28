@@ -1,1 +1,2 @@
-Explain what the upstream remote is usually used for, in your own words
+Explain what the upstream remote is usually used for, in your own words:
+Upstream is the term for the original repository where a branch will be merged. Upstream is a way of saying the head revision or latest version of that repository.
